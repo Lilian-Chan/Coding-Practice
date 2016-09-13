@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Array&Matrix](1. array&matrix.md)
-* String
+* [String](2. string.md)
 
